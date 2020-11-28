@@ -7,20 +7,22 @@ Create Table User
 
 Output:
 Home.py
- 
+ ![Home](https://github.com/Durgesh-Gupta/Hotel-Management-system-python-GUI-/blob/main/images/home.png)
+
 
 1.	Add Booking:
- 
+ ![Add page](https://github.com/Durgesh-Gupta/Hotel-Management-system-python-GUI-/blob/main/images/add.png)
+
 
  
 
 2.	Check Out
- 
+ ![check out](https://github.com/Durgesh-Gupta/Hotel-Management-system-python-GUI-/blob/main/images/checkout.png)
 
  
-
+![confirm](https://github.com/Durgesh-Gupta/Hotel-Management-system-python-GUI-/blob/main/images/reg.png)
 3.	Guest List
-
+![guestList]()
  
 
-
+![Bill](https://github.com/Durgesh-Gupta/Hotel-Management-system-python-GUI-/blob/main/images/bill.png)
